@@ -1,0 +1,10 @@
+let warmHugs = "Hi, I'm Olaf and I like warm hugs.";
+console.log(warmHugs.toUpperCase());
+warmHugs = warmHugs.replace("like", "love");
+var beenImpaled = "Oh, look at that. I've been impaled.";
+console.log(beenImpaled.slice(18));
+var dotDotDot = "...";
+var skullBones = `I don't have a skull${dotDotDot}or bones.`;
+console.log(Math.PI);
+var randomNumber = Math.floor(Math.random() * 3 + 1);
+console.log(randomNumber);
